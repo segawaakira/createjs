@@ -15,7 +15,7 @@
     "@types/createjs": "0.0.29"
   },
   "devDependencies": {
-    "awesome-typescript-loader": "^2.2.4",
+    "awesome-typescript-loader": "2.2.4",
     "browser-sync": "^2.16.0",
     "createjs-def": "git://github.com/ics-nohara/createjs-def.git",
     "gulp": "^3.9.1",
@@ -27,7 +27,7 @@
     "rimraf": "^2.5.4",
     "run-sequence": "^1.2.2",
     "ts-loader": "^0.8.2",
-    "typescript": "^2.0.3",
+    "typescript": "2.0.3",
     "webpack": "^1.13.2"
   }
 }
