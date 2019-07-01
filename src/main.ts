@@ -41,6 +41,8 @@ function handleTick() {
 
 
 function time() {
+  // TODO : 時計でなくストップウォッチにする
+  // http://cya.sakura.ne.jp/java/stopw.htm
   // // Stageオブジェクトを作成。表示リストのルートになります。
   // var stage = new createjs.Stage("myCanvas");
   // // Text インスタンスを作成
